@@ -1,4 +1,5 @@
 # Formaggio_FOXA2
+[![DOI](https://zenodo.org/badge/1003526580.svg)](https://doi.org/10.5281/zenodo.16744575)
 Code and Data for FOXA2 project ("Targeting FOXA1 and FOXA2 Disrupts the Lineage-Specific Oncogenic Output Program in Prostate Cancer ")
 
 ## Directory structure
